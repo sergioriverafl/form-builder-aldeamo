@@ -11,4 +11,4 @@ git clone https://github.com/sergioriverafl/form-builder-aldeamo.git
 
 http://localhost:3000/
 
-/assets/images/electrocat.png
+![Image text](https://github.com/sergioriverafl/form-builder-aldeamo/blob/main/assets/form_builder.png)
