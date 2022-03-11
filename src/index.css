@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-control {
+    @apply w-full text-sm text-black placeholder-gray-500 border border-gray-200 rounded-md py-2 pl-3 focus:outline-none focus:ring-0;
+}
+.input-custom{
+    @apply w-full px-4 py-2 rounded-sm mt-2 border focus:border-gray-300 focus:bg-white focus:outline-none;
+}
