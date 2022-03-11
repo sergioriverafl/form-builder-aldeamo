@@ -16,7 +16,7 @@ import FormBuilder from './views/FormBuilder';
 
 function App() {
   return (
-    <Router basename={proccess.env.PUBLIC_URL}>
+    <Router>
       <div className='flex flex-col gap-8'>
         <header className='flex items-center justify-between gap-3 p-3 bg-indigo-500'>
           <h1 className='font-bold text-white text-2xl'>Form Builder</h1>
