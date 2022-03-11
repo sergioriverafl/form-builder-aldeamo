@@ -11,3 +11,4 @@ git clone https://github.com/sergioriverafl/form-builder-aldeamo.git
 
 http://localhost:3000/
 
+/assets/images/electrocat.png
