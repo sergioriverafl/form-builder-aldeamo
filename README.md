@@ -4,7 +4,7 @@
 
 git clone https://github.com/sergioriverafl/form-builder-aldeamo.git
 
-cd form-buider-aldeamo
+cd form-builder-aldeamo
 
 npm i
 
